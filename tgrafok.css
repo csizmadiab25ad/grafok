@@ -3,6 +3,7 @@ body{
   padding: 10px;
   margin: 0px;
   text-align: justify;
+  background-image: url(big-graph.png);
 }
 
 p:first-letter {
