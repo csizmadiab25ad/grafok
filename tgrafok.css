@@ -45,4 +45,6 @@ width: 400px;
 
 a{
   color:red;
+  font-weight: bold;
+  text-decoration: none;
 }
